@@ -5,19 +5,16 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/parshvas25.svg?style=social&label=Followers)](https://github.com/parshvas25?tab=followers)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Parshva!;I'm+a+Software+Engineer...;I'm+also+a+Project+Manager)]
-(https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Parshva!;I'm+a+Software+Engineer...;I'm+also+a+Project+Manager)
 
 <img src="https://komarev.com/ghpvc/?username=parshvas25&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
 <h3> Here's some fun facts about me: </h3>
 
-- 🔭 I’m currently working on Flutter Projects
-- 🌱 I've 8+ months of professional experience worked at 5Gen Solutions and built three cross-platform applications in Flutter
-- 👯 I’m looking to collaborate on Flutter, Machine Learning and Deep Learning Projects
-- 🤔 I’m lalso working as a Freelancer at Upwork and Fiverr.
-- 💬 Ask me about Programming or Machine Learning
-- 📫 I am also a technical writer at Medium 
+- 🔭 I’m currently working as a Project Management and Controls Intern
+- 🌱 I have over 16+ months of experience working on various large scale MERN Stack Projects
+- 🤔 I’m looking to collobarate on MERN Stack Projects
+- 💬 Ask me about Programming, Project Management, or Machine Learning
 
 
 <p>Connect with me on
