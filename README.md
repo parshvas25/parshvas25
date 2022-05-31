@@ -5,7 +5,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/parshvas25.svg?style=social&label=Followers)](https://github.com/parshvas25?tab=followers)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Parshva!;I'm+a+Software+Engineer...;I'm+also+a+Project+Manager)]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Parshva!;I'm+a+Software+Engineer...;I'm+also+a+Project+Manager)
 
 <img src="https://komarev.com/ghpvc/?username=parshvas25&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
@@ -40,18 +40,37 @@
 
 <p align="left"> 
   
-
-  <a href="https://dart.dev/">
-    <img alt="DART" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  </a>
-&emsp;
-<a href="https://python.org/">
+  <a href="https://python.org/">
     <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+  </a>
+ 
+&emsp;
+
+<a href="https://www.javascript.com//">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   </a>
   &emsp;
 <a href="https://www.java.com/en/">
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   </a>
+  
+  &emsp;
+  <a href="https://www.cplusplus.com/">
+    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  </a>
+   &emsp;
+
+  <a href="https://dart.dev/">
+    <img alt="DART" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  </a>
+  
+   &emsp;
+
+  <a href="https://html.com/">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+  </a>
+  
+  
 
 
 </p>
