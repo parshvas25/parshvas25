@@ -35,7 +35,12 @@
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=parshvas25&theme=gruvbox&hide_border=true&area=true)
 
-
+<div align="center">
+  <img align="center" src="https://github-readme-stats-kappa-sandy.vercel.app/api?username=parshvas25&show_icons=true&theme=radical&hide_border=true">
+  <br/>
+    <br />
+  <img align="center" src="https://github-readme-stats-kappa-sandy.vercel.app/api/top-langs?username=parshvas25&layout=compact&show_icons=true&theme=radical&hide_border=true" />
+</div>
 
 ## 🛠️ My Skills
 
