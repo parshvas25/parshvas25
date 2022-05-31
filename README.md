@@ -11,14 +11,17 @@
 
 <h3> Here's some fun facts about me: </h3>
 
-- 🔭 I’m currently working as a Project Management and Controls Intern
-- 🌱 I have over 16+ months of experience working on various large scale MERN Stack Projects
-- 🤔 I’m looking to collobarate on MERN Stack Projects
+- 💼 I’m currently working as a Project Management and Controls Intern @ Kinectrics.
+- 🏫 I am heading into my final year @ University of Toronto pursuing a specialist in Computer Science
+- 💻  I have over 16+ months of experience working on large scale software that utilizes the MERN Stack
+- 👀 I am intrested in Cloud Development, Big Data Analytics, Large Scale Software, and Machine Learning
 - 💬 Ask me about Programming, Project Management, or Machine Learning
 
 
 <p>Connect with me on
-<br>	
+<br>
+<a target="_blank" href="https:/parshvashah.ca"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></img></a>
+&emsp;
 <a target="_blank" href="https://www.linkedin.com/in/parshva-shah25/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
 <a target="_blank" href="mailto:parshvashah414@gmail.com"
