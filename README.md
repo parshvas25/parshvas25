@@ -14,8 +14,8 @@
 - 💼 I’m currently working as a Project Management and Controls Intern @ Kinectrics.
 - 🏫 I am heading into my final year @ University of Toronto pursuing a specialist in Computer Science
 - 💻  I have over 16+ months of experience working on large scale software that utilizes the MERN Stack
-- 👀 I am intrested in Cloud Development, Big Data Analytics, Large Scale Software, and Machine Learning
-- 💬 Ask me about Programming, Project Management, or Machine Learning
+- 👀 I am intrested in Cloud Development, Big Data Analytics, Large Scale Software, and Web 3 Technologies
+- 💬 Ask me about Programming, Project Management, or Web3
 
 
 <p>Connect with me on
